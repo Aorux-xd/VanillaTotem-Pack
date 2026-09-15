@@ -1,0 +1,1 @@
+# VanillaTotem Resource Pack
